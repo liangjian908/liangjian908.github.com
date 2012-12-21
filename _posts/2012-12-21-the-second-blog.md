@@ -1,4 +1,10 @@
-Create a new repository on the command line
+---
+layout : post
+category : lessons
+tags : [开始]
+---
+
+##Create a new repository on the command line
 touch README.md
 git init
 git add README.md
