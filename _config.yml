@@ -12,9 +12,15 @@ pygments: true
 title : liangjian908
 tagline: Site Tagline
 author :
+<<<<<<< HEAD
   name : liang
   email : liangjian908@gmail.com
   github : https://github.com/liangjian908/
+=======
+  name : 
+  email : liangjian908@gmail.com
+  github : https://github.com/$username$/
+>>>>>>> 3303fb2107b73f59c9cc7d2b2a02097350de0a72
   twitter : 
   feedburner : 
 

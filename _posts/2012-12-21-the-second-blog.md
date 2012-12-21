@@ -1,8 +1,14 @@
 ---
 layout : post
 category : lessons
+<<<<<<< HEAD
 tags : [¿ªÊ¼]
 ---
+=======
+tags : [å¼€å§‹]
+---
+
+>>>>>>> 3303fb2107b73f59c9cc7d2b2a02097350de0a72
 ##Create a new repository on the command line
 ##touch README.md
 ##git init
