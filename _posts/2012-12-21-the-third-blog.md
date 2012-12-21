@@ -1,13 +1,15 @@
-layout : post category : lessons
+---
+layout : post
+category : lessons
+tags : [开始]
+---
 
- tags : [开始]
+##登录Github
 
-登录Github
-
-创建repo
- •名字必须是$username$.github.com
+##创建repo
+## •名字必须是$username$.github.com
  
-创建disqus帐号
+##创建disqus帐号
 Site URL = $username$.github.com
 shortname = $username$blogbygithub
 Site Name = $username$-blog-by-github
