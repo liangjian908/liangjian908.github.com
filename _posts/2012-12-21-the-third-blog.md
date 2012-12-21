@@ -9,7 +9,7 @@ tags : [开始]
 ##创建repo
 ## •名字必须是$username$.github.com
  
-##创建disqus帐号
+##创建disqus帐号（http://disqus.com/admin/signup/）
 Site URL = $username$.github.com
 shortname = $username$blogbygithub
 Site Name = $username$-blog-by-github
