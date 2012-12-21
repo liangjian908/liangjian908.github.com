@@ -1,3 +1,9 @@
+---
+layout : post
+category : lessons
+tags : [开始]
+---
+
 注册Github帐号
 
 建立第一个项目
