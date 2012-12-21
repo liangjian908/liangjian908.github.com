@@ -1,3 +1,7 @@
+layout : post category : lessons
+
+ tags : [开始]
+
 登录Github
 
 创建repo
